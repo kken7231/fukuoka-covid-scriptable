@@ -1,5 +1,5 @@
 # fukuoka-covid-scriptable
-福岡県の新型コロナウイルス感染症の感染者数を日毎にホーム画面に表示します。 [福岡県の公式データ](https://ckan.open-governmentdata.org/dataset/412b1e1c-7c05-443e-8c1f-e8dfcff57b91/resource/3e306520-17e0-4684-8b88-bddf748c68bd/download/400009_pref_fukuoka_covid19_newlycases.csv)を引用しており、過去14日分のデータを表示します。
+An widget that shows the number of Covid-19 infected people in Fukuoka retrieved from an official source. [福岡県の公式データ](https://ckan.open-governmentdata.org/dataset/412b1e1c-7c05-443e-8c1f-e8dfcff57b91/resource/3e306520-17e0-4684-8b88-bddf748c68bd/download/400009_pref_fukuoka_covid19_newlycases.csv)
 
 ## Set up
 ### 1. Install [Scriptable](https://apps.apple.com/jp/app/scriptable/id1405459188)
